@@ -1,4 +1,4 @@
-Recommended topic
+
 An Intelligent RAG-Based Framework for Employee Information Management and Context-Aware Organizational Decision Support
 Focus: Artificial Intelligence · NLP · Information Retrieval · Organizational Infrastructure
 
