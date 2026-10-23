@@ -1,4 +1,23 @@
+
 # 🧠 Employee Information Intelligence Platform
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=850&lines=Retrieval-Augmented+Generation+(RAG);AI-Powered+Employee+Information+Management;Semantic+Search+%7C+NLP+%7C+LLMs;Context-Aware+Organizational+Knowledge" alt="Animated project header" />
+</p>
+
+<p align="center">
+  <b>AI · NLP · Semantic Search · Intelligent Knowledge Management</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Research-In_Progress-F59E0B?style=for-the-badge" alt="Research in progress" />
+</p>
+
+---
+
 ### An Intelligent RAG-Based Framework for Context-Aware Organizational Knowledge Retrieval
 
 **AI · NLP · Retrieval-Augmented Generation · Semantic Search · Knowledge Management**
