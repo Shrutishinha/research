@@ -1,5 +1,4 @@
 
-# 🧠 Employee Information Intelligence Platform
 
 <div align="center">
 
