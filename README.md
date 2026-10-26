@@ -1,6 +1,4 @@
-
-
-<div align="center">
+hi<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=12,20,24&text=Employee%20AI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Intelligent%20Employee%20Information%20Platform&descSize=16&descAlignY=65" />
 
