@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=12,20,24&text=Employee%20AI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Intelligent%20Employee%20Information%20Platform&descSize=16&descAlignY=65" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=EC4899&center=true&vCenter=true&width=700&lines=AI-Powered+Employee+Information+Management;Retrieval-Augmented+Generation+(RAG);Semantic+Search+%7C+NLP+%7C+LLMs;Context-Aware+Organizational+Knowledge" alt="Animated typing header" />
-
 <br/>
 
 **AI · NLP · Semantic Search · Intelligent Knowledge Management**
